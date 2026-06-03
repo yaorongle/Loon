@@ -81,7 +81,7 @@ https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr, policy=Speedtest, ta
 https://rule.kelee.one/Loon/Facebook.lsr, policy=美国节点, tag=Facebook, enabled=true
 https://rule.kelee.one/Loon/Whatsapp.lsr, policy=香港节点, tag=Whatsapp, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Twitter.list, policy=美国节点, tag=Twitter, enabled=true
-https://github.com/Moli-X/Tool/raw/X/Loon/Rules/YouTube.list, policy=YouTube, tag=Youtube, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Youtube.list, policy=YouTube, tag=Youtube, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=Telegram, tag=Telegram, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=Instagram, tag=Instagram, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Tiktok.list, policy=Tiktok, tag=Tiktok, enabled=true
