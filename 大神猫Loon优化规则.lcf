@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=DIRECT, tag=国内网站分流, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Loon/ChinaMax/ChinaMax_Domain.list, policy=DIRECT, tag=国内分流, enabled=true
 https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr, policy=Speedtest, tag=Speedtest, enabled=true
-https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Meta.list, policy=Meta, tag=Meta, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Meta.list, policy=Mate | Facebook | WhatsApp | Instagram | Threads, tag=Mate | Facebook | WhatsApp | Instagram | Threads, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Twitter.list, policy=Twitter, tag=Twitter, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Youtube.list, policy=YouTube, tag=Youtube, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Telegram.list, policy=Telegram, tag=Telegram, enabled=true
