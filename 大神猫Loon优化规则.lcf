@@ -82,10 +82,10 @@ https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Twitt
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Youtube.list, policy=YouTube, tag=Youtube, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Telegram.list, policy=Telegram, tag=Telegram, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Tiktok.list, policy=Tiktok, tag=Tiktok, enabled=true
-https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=ChatGPT,  tag=AI.lsr, enabled=true
+https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=美国,  tag=AI.lsr, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/OpenAI.list, policy=ChatGPT,  tag=OpenAI, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list, policy=ChatGPT,  tag=Gemini, enabled=true
-https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Google.list, policy=ChatGPT, tag=Gemini, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list, policy=Google,  tag=Gemini, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Google.list, policy=Google, tag=Gemini, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=Google, tag=Google分流, enabled=true
 
 [Host]
