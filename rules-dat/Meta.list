@@ -151,4 +151,4 @@ IP-CIDR6,2c0f:ef78:9::/48,no-resolve
 IP-CIDR6,2c0f:ef78:c::/47,no-resolve
 IP-CIDR6,2c0f:ef78:e::/48,no-resolve
 IP-CIDR6,2c0f:ef78:10::/47,no-resolve
-USER-AGENT,Facebook*
+USER-AGENT,Mate | Facebook | WhatsApp | Instagram | Threads*
