@@ -35,11 +35,12 @@ interface-mode = auto
 Available = select,全部,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available.png
 Speedtest = select,Ss,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 Google = url-test,香港,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
-Instagram = url-test,香港,台湾,日本,韩国,美区,新加坡,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-02.png
-Twitter = url-test,美区,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
-Tiktok = url-test,美区,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
-电报消息 = url-test,Ss_🇯🇵 日本JP,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
-人工智能 = select,Ss,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
+Facebook = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Facebook.png
+Instagram = url-test,香港,台湾,日本,韩国,美国,新加坡,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-02.png
+Twitter = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
+Tiktok = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
+Telegram = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+ChatGPT = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
 YouTube = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 香港节点 = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 美国节点 = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
@@ -50,7 +51,7 @@ YouTube = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 6
 
 
 [Remote Filter]
-全部 = NameRegex, FilterKey = "^(?!.*网易云)"
+全部 = NameRegex, FilterKey = "^(?!.*汽水音乐)"
 香港 = NameRegex, FilterKey = "(?i)(港|HK|Hong)"
 美国 = NameRegex, FilterKey = "(?i)(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)"
 日本 = NameRegex, FilterKey = "(?i)(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)"
