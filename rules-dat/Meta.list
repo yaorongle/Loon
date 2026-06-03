@@ -1,48 +1,49 @@
 # Meta 域名/IP规则 Loon（无指定策略，顺延全局规则，no-resolve避免DNS解析）
 # ========== Facebook 主站域名 ==========
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fbcookiejar.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,meta.com
-DOMAIN-SUFFIX,meta.org
-DOMAIN-SUFFIX,metastack.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculusquest.com
+DOMAIN-SUFFIX,facebook.com,
+DOMAIN-SUFFIX,fb.com,
+DOMAIN-SUFFIX,fbcookiejar.com,
+DOMAIN-SUFFIX,fbcdn.net,
+DOMAIN-SUFFIX,fb.me,
+DOMAIN-SUFFIX,fbworkmail.com,
+DOMAIN-SUFFIX,fbsbx.com,
+DOMAIN-SUFFIX,messenger.com,
+DOMAIN-SUFFIX,meta.com,
+DOMAIN-SUFFIX,meta.org,
+DOMAIN-SUFFIX,metastack.com,
+DOMAIN-SUFFIX,oculus.com,
+DOMAIN-SUFFIX,oculuscdn.com,
+DOMAIN-SUFFIX,oculusquest.com,
 
 # ========== Instagram 全套域名 ==========
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,ig.me
-DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com,
+DOMAIN-SUFFIX,cdninstagram.com,
+DOMAIN-SUFFIX,ig.me,
+DOMAIN-SUFFIX,instagr.am,
 
 # ========== WhatsApp 通讯域名 ==========
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,wa.me
-DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.com,
+DOMAIN-SUFFIX,wa.me,
+DOMAIN-SUFFIX,whatsapp.net,
 
 # ========== Threads、Meta新业务 ==========
-DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,threadsn.net
+DOMAIN-SUFFIX,threads.net,
+DOMAIN-SUFFIX,threadsn.net,
 
 # ========== Meta全球CDN&后端接口域名 ==========
-DOMAIN-SUFFIX,c10r.facebook.com
-DOMAIN-SUFFIX,content.fbcdn.net
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,mqtt.facebook.com
-DOMAIN-SUFFIX,apps.fbsbx.com
-DOMAIN-SUFFIX,platform.facebook.com
+DOMAIN-SUFFIX,c10r.facebook.com,
+DOMAIN-SUFFIX,content.fbcdn.net,
+DOMAIN-SUFFIX,graph.facebook.com,
+DOMAIN-SUFFIX,mqtt.facebook.com,
+DOMAIN-SUFFIX,apps.fbsbx.com,
+DOMAIN-SUFFIX,platform.facebook.com,
 
 # ========== 精准单域名（无后缀匹配，固定域名） ==========
-DOMAIN,static.xx.fbcdn.net
-DOMAIN,scontent.xx.fbcdn.net
-DOMAIN,scontent-sjc3.xx.fbcdn.net
+DOMAIN,static.xx.fbcdn.net,
+DOMAIN,scontent.xx.fbcdn.net,
+DOMAIN,scontent-sjc3.xx.fbcdn.net,
 
+# IPv4
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
@@ -110,6 +111,8 @@ IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,185.89.216.0/22,no-resolve
 IP-CIDR,199.201.64.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
+
+# IPv6
 IP-CIDR6,2620:0:1c00::/40,no-resolve
 IP-CIDR6,2620:10d:c090::/44,no-resolve
 IP-CIDR6,2a03:2880::/32,no-resolve
@@ -151,4 +154,9 @@ IP-CIDR6,2c0f:ef78:9::/48,no-resolve
 IP-CIDR6,2c0f:ef78:c::/47,no-resolve
 IP-CIDR6,2c0f:ef78:e::/48,no-resolve
 IP-CIDR6,2c0f:ef78:10::/47,no-resolve
-USER-AGENT,Mate | Facebook | WhatsApp | Instagram | Threads*
+
+# UA匹配，空策略顺延全局
+USER-AGENT,Facebook*,
+USER-AGENT,WhatsApp*,
+USER-AGENT,Instagram*,
+USER-AGENT,Threads*,
