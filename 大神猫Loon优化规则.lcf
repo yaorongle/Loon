@@ -95,10 +95,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 
 [Remote Script]
 [Plugin]
+https://yfamilys.com/plugin/DisableUpdate.plugin, enabled=true
+https://kelee.one/Tool/Loon/Lpx/WutaCamera_remove_ads.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/1.1.1.1.lpx, enabled=true
+https://raw.githubusercontent.com/Semporia/TikTok-Unlock/refs/heads/master/Loon/TikTok.plugin, enabled=true
 https://raw.githubusercontent.com/kokoryh/Sparkle/refs/heads/master/release/loon/plugin/bilibili.lpx, enabled=true
-http://script.hub/file/_start_/https://ddgksf2013.top/scripts/goodbility.vip.js/_end_/goodbility.vip.sgmodule?type=qx-rewrite&n=Goodbility%E4%BC%9A%E5%91%98%E8%A7%A3%E9%94%81%40ddgksf2013+%E8%A7%A3%E9%94%81G%E5%92%8CN%E7%AC%94%E8%AE%B0%E4%BC%9A%E5%91%98&headers=User-Agent:surge&del=true&jqEnabled=true&target=loon-plugin&category=ddgksf2013, enabled=true
 https://ddgksf2013.top/module/ScriptHub.Loon.plugin, enabled=true
-http://script.hub/file/_start_/https://ddgksf2013.top/rewrite/StartUpAds.conf/_end_/StartUpAds.sgmodule?type=qx-rewrite&n=%E5%A2%A8%E9%B1%BC%E5%8E%BB%E5%BC%80%E5%B1%8F2.0+%20%E5%8E%BB%E9%99%A4APP%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A&headers=User-Agent:surge&del=true&jqEnabled=true&icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png&target=loon-plugin, enabled=true
 https://kelee.one/Tool/Loon/Lpx/NarwelRobots_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/SodaMusic_remove_ads.lpx, tag=汽水音乐, enabled=true
 https://kelee.one/Tool/Loon/Lpx/TestFlightRegionUnlock.lpx, enabled=true
@@ -107,7 +109,6 @@ https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, enabled=true
 https://raw.githubusercontent.com/Tartarus2014/Loon-Script/refs/heads/master/Plugin/skip-proxy.lpx, enabled=true
 https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/SkipProxy.plugin, enabled=true
 https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/BaiduAdBlock.plugin, enabled=true
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/WPS.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin, enabled=true
 https://raw.githubusercontent.com/deezertidal/private/master/plugallery/CamScanner.plugin, enabled=true
