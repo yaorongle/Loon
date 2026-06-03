@@ -87,6 +87,7 @@ https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/OpenA
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list, policy=Google,  tag=Gemini, enabled=true
 https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Google.list, policy=Google, tag=Gemini, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=Google, tag=Google分流, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/hk_all.list, policy=香港, tag=Gemini, enabled=true
 
 [Host]
 [Rewrite]
