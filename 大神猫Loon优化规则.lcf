@@ -35,8 +35,7 @@ interface-mode = auto
 Available = select,全部,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available.png
 Speedtest = select,Ss,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 Google = url-test,香港,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
-Facebook = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Facebook.png
-Instagram = url-test,香港,台湾,日本,韩国,美国,新加坡,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-02.png
+Mate | Facebook | WhatsApp | Instagram | Threads = url-test,香港,台湾,日本,韩国,美国,新加坡,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Facebook.png
 Twitter = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
 Tiktok = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
 Telegram = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
@@ -78,12 +77,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=DIRECT, tag=国内网站分流, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Loon/ChinaMax/ChinaMax_Domain.list, policy=DIRECT, tag=国内分流, enabled=true
 https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr, policy=Speedtest, tag=Speedtest, enabled=true
-https://rule.kelee.one/Loon/Facebook.lsr, policy=美国节点, tag=Facebook, enabled=true
-https://rule.kelee.one/Loon/Whatsapp.lsr, policy=香港节点, tag=Whatsapp, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Meta.list, policy=Meta, tag=Meta, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Twitter.list, policy=Twitter, tag=Twitter, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Youtube.list, policy=YouTube, tag=Youtube, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Telegram.list, policy=Telegram, tag=Telegram, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=Instagram, tag=Instagram, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Tiktok.list, policy=Tiktok, tag=Tiktok, enabled=true
 https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=ChatGPT,  tag=AI.lsr, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/OpenAI.list, policy=ChatGPT,  tag=OpenAI, enabled=true
