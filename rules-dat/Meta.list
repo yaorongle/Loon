@@ -1,4 +1,4 @@
-# Facebook IP规则 Loon（无指定策略，顺延全局规则，no-resolve避免DNS解析）
+# Meta 域名/IP规则 Loon（无指定策略，顺延全局规则，no-resolve避免DNS解析）
 # ========== Facebook 主站域名 ==========
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
