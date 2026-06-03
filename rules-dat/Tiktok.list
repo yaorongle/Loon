@@ -1,6 +1,4 @@
-# TikTok & ByteDance Domain Rules
-# UPDATED: 2026-06-04
-# TOTAL: 29
+# Tiktok域名规则
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteintlapi.com
