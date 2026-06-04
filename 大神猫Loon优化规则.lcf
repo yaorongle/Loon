@@ -35,12 +35,13 @@ interface-mode = auto
 Global = select,全部,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available.png
 Speedtest = select,Ss,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 Google = url-test,香港,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
-Mate | Facebook | WhatsApp | Instagram | Threads = url-test,香港,台湾,日本,韩国,美国,新加坡,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://ghproxy.com/https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/mate-01.png
-Twitter = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
-Tiktok = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
-Telegram = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
-ChatGPT = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
-YouTube = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+ChatGPT = url-test,美国,日本,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
+Gemini = url-test,美国,日本,香港,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
+Mate | Facebook | WhatsApp | Instagram | Threads = url-test,香港,日本,美国,韩国,新加坡,台湾,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://ghproxy.com/https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/mate-01.png
+Twitter = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
+Tiktok = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
+Telegram = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+YouTube = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 香港节点 = url-test,香港,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 美国节点 = url-test,美国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
 日本节点 = url-test,日本,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
