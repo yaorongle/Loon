@@ -52,7 +52,7 @@ YouTube = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/gene
 
 [Remote Filter]
 全部 = NameRegex, FilterKey = "^(?!.*汽水音乐)"
-香港 = NameRegex, FilterKey = "(?i)(港|HK|Hong)"
+香港 = NameRegex, FilterKey = "(?i)(港|HK|Hong Kong)"
 美国 = NameRegex, FilterKey = "(?i)(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)"
 日本 = NameRegex, FilterKey = "(?i)(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)"
 韩国 = NameRegex, FilterKey = "(?i)(KR|Korea|KOR|首尔|韩|韓)"
