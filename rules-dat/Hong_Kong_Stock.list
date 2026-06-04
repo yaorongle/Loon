@@ -10,3 +10,29 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomooapp.com
 DOMAIN-SUFFIX,moomoo.ca
 DOMAIN-SUFFIX,moomoo.com.au
+
+# 长桥证券
+# 长桥主站
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.global
+
+# 长桥开放平台
+DOMAIN-SUFFIX,open.longbridge.com
+DOMAIN-SUFFIX,openapi.longbridge.com
+DOMAIN-SUFFIX,openapi.longbridge.cn
+
+# 长桥行情 WebSocket
+DOMAIN-SUFFIX,openapi-quote.longbridge.com
+DOMAIN-SUFFIX,openapi-quote.longbridge.cn
+
+# 长桥交易 WebSocket
+DOMAIN-SUFFIX,openapi-trade.longbridge.com
+DOMAIN-SUFFIX,openapi-trade.longbridge.cn
+
+# 长桥云服务
+DOMAIN-SUFFIX,longbridge.cloud
+
+# 客服帮助中心
+DOMAIN-SUFFIX,support.longbridgehk.com
+DOMAIN-SUFFIX,support.longbridge.global
