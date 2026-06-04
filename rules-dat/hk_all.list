@@ -1,33 +1,50 @@
-# 香港域名规则*Loon策略组匹配文件
-# —— 传统商业银行 ——
-DOMAIN-SUFFIX,hsbc.com.hk,
-DOMAIN-SUFFIX,hangseng.com,
-DOMAIN-SUFFIX,icbcasia.com,
-DOMAIN-SUFFIX,sc.com,
-DOMAIN-SUFFIX,cncbinternational.com,
-DOMAIN-SUFFIX,ccb.com,
-DOMAIN-SUFFIX,bochk.com,
-DOMAIN-SUFFIX,cmbwinglungbank.com,
-DOMAIN-SUFFIX,hkbea.com,
-DOMAIN-SUFFIX,dahsing.com,
+# Hong Kong Rules for Loon
 
-# —— 数字/虚拟银行 ——
-DOMAIN-SUFFIX,pingandb.com,
-DOMAIN-SUFFIX,elebank.com,
-DOMAIN-SUFFIX,za.group,
-DOMAIN-SUFFIX,welab.bank,
-DOMAIN-SUFFIX,antbank.hk,
-DOMAIN-SUFFIX,livibank.com,
-DOMAIN-SUFFIX,fusionbank.com,
+# Traditional Banks
 
-# —— 香港本土生活与电信 ——
-DOMAIN-SUFFIX,hkjc.com,
-DOMAIN-SUFFIX,hkcsl.com,
-DOMAIN-SUFFIX,octopus.com.hk,
-DOMAIN-SUFFIX,octopuscards.com,
-DOMAIN-SUFFIX,price.com.hk,
-DOMAIN-SUFFIX,tvb.com,
-DOMAIN-SUFFIX,mytvsuper.com,
-DOMAIN-SUFFIX,gov.hk,
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,hkbea.com
+DOMAIN-SUFFIX,dahsing.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,asia.ccb.com
 
-# UA无通用「香港*」客户端，本条无效直接删掉
+# Virtual Banks
+
+DOMAIN-SUFFIX,pingandb.com
+DOMAIN-SUFFIX,elebank.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-SUFFIX,fusionbank.com
+
+# Local Services
+
+DOMAIN-SUFFIX,hkjc.com
+DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,octopuscards.com
+DOMAIN-SUFFIX,price.com.hk
+
+# Media
+
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+# Government
+
+DOMAIN-SUFFIX,gov.hk
+
+# Additional HK Services
+
+DOMAIN-SUFFIX,hongkongpost.hk
+DOMAIN-SUFFIX,mtr.com.hk
+DOMAIN-SUFFIX,hket.com
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,discuss.com.hk
+DOMAIN-SUFFIX,uwants.com
