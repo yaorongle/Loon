@@ -36,9 +36,9 @@ Global = select,全部,url = http://www.gstatic.com/generate_204,img-url = https
 Speedtest = select,Ss,url = http://www.gstatic.com/generate_204,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 Google = url-test,香港,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
 ChatGPT = url-test,美国,日本,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
-Gemini = url-test,美国,日本,香港,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/gemini.png
+Google Gemini = url-test,美国,日本,香港,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/gemini.png
 Mate | Facebook | WhatsApp | Instagram | Threads = url-test,香港,日本,美国,韩国,新加坡,台湾,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/mate-01.png
-Twitter = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/x_01.png
+X(原Twitter) = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/x_01.png
 Tiktok = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
 Telegram = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
 YouTube = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
