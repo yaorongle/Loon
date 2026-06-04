@@ -1,12 +1,12 @@
 Hong Kong Stock* Rules for Loon
 # 富途证券
-DOMAIN-SUFFIX,futuhk.com,DIRECT
-DOMAIN-SUFFIX,futunn.com,DIRECT
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futunn.com
 
 # 富途相关
-DOMAIN-SUFFIX,futubull.com,DIRECT
-DOMAIN-SUFFIX,futubullstatic.com,DIRECT
-DOMAIN-SUFFIX,moomoo.com,DIRECT
-DOMAIN-SUFFIX,moomooapp.com,DIRECT
-DOMAIN-SUFFIX,moomoo.ca,DIRECT
-DOMAIN-SUFFIX,moomoo.com.au,DIRECT
+DOMAIN-SUFFIX,futubull.com
+DOMAIN-SUFFIX,futubullstatic.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooapp.com
+DOMAIN-SUFFIX,moomoo.ca
+DOMAIN-SUFFIX,moomoo.com.au
