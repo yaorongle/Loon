@@ -37,7 +37,7 @@ Speedtest = select,Ss,url = http://www.gstatic.com/generate_204,img-url = https:
 Google = url-test,香港,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
 ChatGPT = url-test,美国,日本,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChatGPT3.png
 Google Gemini = url-test,美国,日本,香港,韩国, url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/gemini.png
-Mate | Facebook | WhatsApp | Instagram | Threads = url-test,香港,日本,美国,韩国,新加坡,台湾,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/mate-01.png
+Mata | Facebook | WhatsApp | Instagram | Threads = url-test,香港,日本,美国,韩国,新加坡,台湾,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/mate-01.png
 X(原Twitter) = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/yaorongle/Loon/main/Logo/x_01.png
 Tiktok = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
 Telegram = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/generate_204,interval = 600,tolerance = 50,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
@@ -91,6 +91,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Google.list, policy=Google Gemini, tag=Gemini, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=Google, tag=Google分流, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/hk_all.list, policy=香港节点, tag=hk, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/rules-dat/Meta.list, policy=Mata | Facebook | WhatsApp | Instagram | Threads, tag=Meta, enabled=true
 
 [Host]
 [Rewrite]
