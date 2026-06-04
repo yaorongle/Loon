@@ -96,6 +96,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=Google, tag=Google分流, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港节点, tag=hk, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/Meta.list, policy=Meta | Facebook | WhatsApp | Instagram | Threads, tag=Meta, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/Hong_Kong_Stock.yaml, policy=香港节点, tag=hk, enabled=true
 
 [Host]
 [Rewrite]
