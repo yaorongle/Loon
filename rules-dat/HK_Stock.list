@@ -1,0 +1,33 @@
+﻿# Hong Kong Stock Rules for Loon
+# Futu Securities
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futunn.com
+
+# Futu related
+DOMAIN-SUFFIX,futubull.com
+DOMAIN-SUFFIX,futubullstatic.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooapp.com
+DOMAIN-SUFFIX,moomoo.ca
+DOMAIN-SUFFIX,moomoo.com.au
+
+# Longbridge Securities
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.global
+
+# Longbridge Open API
+DOMAIN-SUFFIX,open.longbridge.com
+DOMAIN-SUFFIX,openapi.longbridge.com
+DOMAIN-SUFFIX,openapi.longbridge.cn
+
+# Longbridge WebSocket
+DOMAIN-SUFFIX,openapi-quote.longbridge.com
+DOMAIN-SUFFIX,openapi-quote.longbridge.cn
+DOMAIN-SUFFIX,openapi-trade.longbridge.com
+DOMAIN-SUFFIX,openapi-trade.longbridge.cn
+
+# Longbridge cloud and support
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,support.longbridgehk.com
+DOMAIN-SUFFIX,support.longbridge.global
