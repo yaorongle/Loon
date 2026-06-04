@@ -1,16 +1,29 @@
-# X(Twitter)域名规则
+# X / Twitter Rules for Loon
+
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
+
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,xcorp.com
+
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,spacesapis.com
+
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tweetdeck.com
+
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
+
 DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
@@ -19,11 +32,11 @@ DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterstat.us
+
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,x.com
 
 USER-AGENT,Twitter*
+USER-AGENT,X*
+
