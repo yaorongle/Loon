@@ -1,5 +1,5 @@
 #🐱大神猫🐯Loon🐱#
-#Date: 2026.6.04 #
+#Date: 2026.6.08 #
 #Author: Loon
 
 [General]
@@ -8,7 +8,8 @@ ipv6-vif = auto
 udp-fallback-mode = DIRECT
 disable-stun = true
 resource-parser = https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-parser.loon.min.js
-sni-sniffing = true
+sni-sniffing = true
+
 real-ip = localhost,*.local,*.lan,*.home.arpa,router.asus.com,miwifi.com,tendawifi.com,tplogin.cn,*.apple.com,*.icloud.com,captive.apple.com,*.push.apple.com,*.mzstatic.com,*.cdn-apple.com,*.apple-dns.net,time.apple.com,time-ios.apple.com
 doh-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query
 ip-mode = prefer-v4
