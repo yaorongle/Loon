@@ -1,0 +1,25 @@
+# CN Banks Rules for Loon
+
+# —— 传统商业银行 ——
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,pingan.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,cscb.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,gzcb.com.cn
+DOMAIN-SUFFIX,jjccb.com
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,ghbank.com.cn
+DOMAIN-SUFFIX,95528.cn
+DOMAIN-SUFFIX,spdb.com.cn
+
+# —— 其他金融支付 ——
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,cn.unionpay.com
