@@ -67,14 +67,8 @@ YouTube = url-test,香港,日本,美国,韩国,url = http://www.gstatic.com/gene
 DOMAIN,mssdk.bytedance.com,DIRECT
 DOMAIN,polaris.zijieapi.com,DIRECT
 DOMAIN,ad.zijieapi.com,DIRECT
-DOMAIN,m.ccb.com,DIRECT
 DOMAIN,msmp.abchina.com.cn,DIRECT
-DOMAIN-SUFFIX,cib.com.cn,DIRECT
-DOMAIN-SUFFIX,bank.pingan.com,DIRECT
-DOMAIN-SUFFIX,pingan.com,DIRECT
-DOMAIN-SUFFIX,ccb.com,DIRECT
-DOMAIN-SUFFIX,ccb.cn,DIRECT
-DOMAIN-SUFFIX,citicbank.com,DIRECT
+
 
 #Type:DOMAIN-SUFFIX,DOMAIN,DOMAIN-KEYWORD,USER-AGENT,URL-REGEX,IP-CIDR
 #Strategy:DIRECT,PROXY,REJECT
