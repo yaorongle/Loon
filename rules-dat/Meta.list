@@ -31,6 +31,20 @@ DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,web.whatsapp.com
+DOMAIN-SUFFIX,g-fallback.whatsapp.net
+DOMAIN-SUFFIX,media-lax3-1.cdn.whatsapp.net
+DOMAIN-SUFFIX,dit.whatsapp.net
+DOMAIN-SUFFIX,api.whatsapp.net
+DOMAIN-SUFFIX,crashlogs.whatsapp.net
+DOMAIN-SUFFIX,pps.whatsapp.net
+DOMAIN-SUFFIX,static.whatsapp.net
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,g.whatsapp.net
+DOMAIN-SUFFIX,media-hkg4-1.cdn.whatsapp.net
+DOMAIN-SUFFIX,media-hkg1-2.cdn.whatsapp.net
+DOMAIN-SUFFIX,mmg.whatsapp.net
+DOMAIN-SUFFIX,e5.whatsapp.net
 
 # Threads
 
