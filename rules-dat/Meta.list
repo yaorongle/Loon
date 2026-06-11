@@ -19,32 +19,60 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculusquest.com
 
-# Instagram
-
+# Instagram dependency
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,ig.me
-DOMAIN-SUFFIX,instagr.am
 
-# WhatsApp
+# Instagram / Threads media CDN
+DOMAIN-SUFFIX,scontent.cdninstagram.com
+DOMAIN-SUFFIX,scontent-iad3-1.cdninstagram.com
+DOMAIN-SUFFIX,scontent-lax3-1.cdninstagram.com
+DOMAIN-SUFFIX,scontent-hkg4-1.cdninstagram.com
+DOMAIN-SUFFIX,scontent-hkg1-2.cdninstagram.com
+DOMAIN-SUFFIX,instagram.fsin10-1.fna.fbcdn.net
+DOMAIN-SUFFIX,instagram.fhkg4-1.fna.fbcdn.net
+DOMAIN-SUFFIX,instagram.flax3-1.fna.fbcdn.net
 
+# WhatsApp Core
 DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsappbrand.com
+DOMAIN-SUFFIX,whatsapp.cc
+DOMAIN-SUFFIX,whatsapp.info
+DOMAIN-SUFFIX,whatsapp.org
+DOMAIN-SUFFIX,whatsapp.tv
+DOMAIN-SUFFIX,wl.co
+
+# WhatsApp Web / Business / API
 DOMAIN-SUFFIX,web.whatsapp.com
-DOMAIN-SUFFIX,g-fallback.whatsapp.net
-DOMAIN-SUFFIX,dit.whatsapp.net
+DOMAIN-SUFFIX,www.whatsapp.com
+DOMAIN-SUFFIX,faq.whatsapp.com
+DOMAIN-SUFFIX,business.whatsapp.com
+DOMAIN-SUFFIX,api.whatsapp.com
 DOMAIN-SUFFIX,api.whatsapp.net
-DOMAIN-SUFFIX,crashlogs.whatsapp.net
-DOMAIN-SUFFIX,pps.whatsapp.net
-DOMAIN-SUFFIX,static.whatsapp.net
 DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,g.whatsapp.net
-DOMAIN-SUFFIX,mmg.whatsapp.net
+
+# WhatsApp Static / CDN / Media
+DOMAIN-SUFFIX,static.whatsapp.net
 DOMAIN-SUFFIX,scontent.whatsapp.net
+DOMAIN-SUFFIX,cdn.whatsapp.net
+DOMAIN-SUFFIX,mmg.whatsapp.net
+DOMAIN-SUFFIX,mmx-ds.cdn.whatsapp.net
 DOMAIN-SUFFIX,media-lax3-1.cdn.whatsapp.net
 DOMAIN-SUFFIX,media-hkg4-1.cdn.whatsapp.net
 DOMAIN-SUFFIX,media-hkg1-2.cdn.whatsapp.net
+
+# WhatsApp Connection / Fallback / Telemetry
+DOMAIN-SUFFIX,g.whatsapp.net
+DOMAIN-SUFFIX,g-fallback.whatsapp.net
+DOMAIN-SUFFIX,dit.whatsapp.net
+DOMAIN-SUFFIX,pps.whatsapp.net
+DOMAIN-SUFFIX,crashlogs.whatsapp.net
+
+# WhatsApp Edge / Endpoint
 DOMAIN-SUFFIX,e1.whatsapp.net
 DOMAIN-SUFFIX,e2.whatsapp.net
 DOMAIN-SUFFIX,e3.whatsapp.net
@@ -53,11 +81,27 @@ DOMAIN-SUFFIX,e5.whatsapp.net
 DOMAIN-SUFFIX,e6.whatsapp.net
 DOMAIN-SUFFIX,e7.whatsapp.net
 DOMAIN-SUFFIX,e8.whatsapp.net
+DOMAIN-SUFFIX,e9.whatsapp.net
+DOMAIN-SUFFIX,e10.whatsapp.net
+DOMAIN-SUFFIX,e11.whatsapp.net
+DOMAIN-SUFFIX,e12.whatsapp.net
+DOMAIN-SUFFIX,e13.whatsapp.net
+DOMAIN-SUFFIX,e14.whatsapp.net
+DOMAIN-SUFFIX,e15.whatsapp.net
+DOMAIN-SUFFIX,e16.whatsapp.net
 
-# Threads
-
+# Threads Core
+DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threadsn.net
+
+# Threads Web / API / Redirect
+DOMAIN-SUFFIX,www.threads.com
+DOMAIN-SUFFIX,www.threads.net
+DOMAIN-SUFFIX,api.threads.com
+DOMAIN-SUFFIX,api.threads.net
+DOMAIN-SUFFIX,graph.threads.net
+DOMAIN-SUFFIX,graph.threads.com
 
 # Meta CDN / API
 
