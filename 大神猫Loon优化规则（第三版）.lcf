@@ -97,7 +97,6 @@ https://raw.githubusercontent.com/Moli-X/Tool/refs/heads/X/Loon/Rules/OpenAI.lis
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list, policy=Google Gemini, tag=Gemini, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list, policy=Google, tag=Google分流, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港节点, tag=hk, enabled=true
-https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/HK_Stock.list, policy=香港节点, tag=HK_Stock, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/Meta.list, policy=Meta | Facebook | WhatsApp | Instagram | Threads, tag=Meta, enabled=true
 
 
