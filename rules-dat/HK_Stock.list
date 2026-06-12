@@ -2,6 +2,20 @@
 # Futu Securities
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,hk.futuhk.com
+DOMAIN-SUFFIX,j.futuhk.com
+DOMAIN-SUFFIX,futucrypto.com
+DOMAIN-SUFFIX,cdn.futustatic.com
+DOMAIN-SUFFIX,collect.futunn.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,www.futunn.com
+DOMAIN-SUFFIX,j.futunn.com
+DOMAIN-SUFFIX,news.futunn.com
+DOMAIN-SUFFIX,quote.futunn.com
+DOMAIN-SUFFIX,m.futunn.com
+DOMAIN-SUFFIX,api.futunn.com
+DOMAIN-SUFFIX,openapi.futunn.com
+DOMAIN-SUFFIX,passport.futunn.com
 
 # Futu related
 DOMAIN-SUFFIX,futubull.com
@@ -11,15 +25,17 @@ DOMAIN-SUFFIX,moomooapp.com
 DOMAIN-SUFFIX,moomoo.ca
 DOMAIN-SUFFIX,moomoo.com.au
 
+  # ***** ————长桥证劵———— *****
 # Longbridge Securities
 DOMAIN-SUFFIX,longbridge.com
 DOMAIN-SUFFIX,longbridge.hk
-DOMAIN-SUFFIX,longbridge.global
 
 # Longbridge Open API
 DOMAIN-SUFFIX,open.longbridge.com
 DOMAIN-SUFFIX,openapi.longbridge.com
 DOMAIN-SUFFIX,openapi.longbridge.cn
+DOMAIN-SUFFIX,api.longbridge.com
+DOMAIN-SUFFIX,api-status.longbridgeapp.com
 
 # Longbridge WebSocket
 DOMAIN-SUFFIX,openapi-quote.longbridge.com
@@ -31,3 +47,13 @@ DOMAIN-SUFFIX,openapi-trade.longbridge.cn
 DOMAIN-SUFFIX,longbridge.cloud
 DOMAIN-SUFFIX,support.longbridgehk.com
 DOMAIN-SUFFIX,support.longbridge.global
+DOMAIN-SUFFIX,longbridge.global
+
+
+
+
+
+
+
+
+
