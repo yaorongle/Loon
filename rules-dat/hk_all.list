@@ -44,3 +44,22 @@ DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,discuss.com.hk
 DOMAIN-SUFFIX,uwants.com
+
+# ***** ————富途证券———— *****
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futucrypto.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,futunn.com
+
+# ***** ————长桥证券———— *****
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridgehk.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridgeapp.com
+
+# ***** ————盈立证券———— *****
+DOMAIN-SUFFIX,usmart.hk
+DOMAIN-SUFFIX,usmartglobal.com
+DOMAIN-SUFFIX,usmart66.com
