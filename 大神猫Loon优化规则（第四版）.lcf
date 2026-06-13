@@ -28,7 +28,7 @@ interface-mode = auto
 
 
 [Remote Proxy]
-RL = http://43.161.217.65:2096/sub/hk-jp-us,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false
+
 
 
 [Proxy Chain]
