@@ -28,9 +28,7 @@ interface-mode = auto
 
 
 [Remote Proxy]
-N1 = http://43.161.217.65:2096/sub/yaoyao,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=default,skip-cert-verify=true,enabled=true,flexible-sni=false
-N2 = https://43.161.248.77:2096/sub/hk-node,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=default,skip-cert-verify=true,enabled=true,flexible-sni=false
-N3 = https://43.161.248.77:2096/sub/ctt-node,udp=true,block-quic=true,fast-open=default,vmess-aead=default,skip-cert-verify=true,enabled=true,flexible-sni=false
+
 
 
 [Proxy Chain]
