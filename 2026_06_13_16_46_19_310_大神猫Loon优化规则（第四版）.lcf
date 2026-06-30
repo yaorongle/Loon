@@ -89,19 +89,19 @@ FINAL,Global
 https://adrules.top/adrules.list, policy=REJECT, tag=AD, enabled=true
 https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Reject.list, policy=REJECT, tag=广告列表, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Lan/Lan.list, policy=DIRECT, tag=局域网分流, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=DIRECT, tag=国内网站分流, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Loon/ChinaMax/ChinaMax_Domain.list, policy=DIRECT, tag=国内分流, enabled=true
-https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/cn_bk.list, policy=国内分流, tag=国内分流, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Siri/Siri.list, policy=香港节点, tag=Siri, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list, policy=DIRECT, tag=中国, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Loon/ChinaMax/ChinaMax_Domain.list, policy=DIRECT, tag=中国, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/cn_bk.list, policy=中国, tag=中国, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Siri/Siri.list, policy=香港, tag=Siri, enabled=true
 https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr, policy=Speedtest, tag=Speedtest, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list, policy=Telegram, tag=Telegram, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Whatsapp/Whatsapp.list, policy=WhatsApp, tag=WhatsApp, enabled=true
-https://rule.kelee.one/Loon/Twitter.lsr, policy=X(原Twitter), tag=X (原Twitter）, enabled=true
+https://rule.kelee.one/Loon/Twitter.lsr, policy=X(原Twitter), tag=X(原Twitter）, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list, policy=Facebook, tag=Facebook, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=Instagram, tag=Instagram, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Threads/Threads.list, policy=Threads, tag=Threads, enabled=true
-https://rule.kelee.one/Loon/GitHub.lsr, policy=香港节点, tag=GitHub, enabled=true
-https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=美国节点, tag=AI.lsr, enabled=true
+https://rule.kelee.one/Loon/GitHub.lsr, policy=香港, tag=GitHub, enabled=true
+https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy=美国, tag=AI.lsr, enabled=true
 https://raw.githubusercontent.com/Moli-X/Tool/refs/heads/X/Loon/Rules/OpenAI.list, policy=ChatGPT, tag=OpenAI, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list, policy=Google Gemini, tag=Gemini, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list, policy=Claude, tag=Claude, enabled=true
@@ -110,7 +110,7 @@ https://kelee.one/Tool/Loon/Lsr/TikTok.lsr, policy=Tiktok, tag=Tiktok, enabled=t
 https://rule.kelee.one/Loon/YouTube.lsr, policy=YouTube, tag=YouTube, enabled=true
 https://rule.kelee.one/Loon/Netflix.lsr, policy=Netflix, tag=Netflix, enabled=true
 https://rule.kelee.one/Loon/Disney.lsr, policy=Disney, tag=Disney, enabled=true
-https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港节点, tag=hk, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港, tag=hk, enabled=true
 
 
 [Host]
