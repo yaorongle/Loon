@@ -1,4 +1,6 @@
 # Singapore Rules for Loon
 
+DOMAIN,ocbc.com.sg
 DOMAIN-SUFFIX,ocbc.com.sg
+DOMAIN,ocbc.com
 DOMAIN-SUFFIX,ocbc.com
