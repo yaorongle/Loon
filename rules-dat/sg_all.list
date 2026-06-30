@@ -5,4 +5,4 @@ DOMAIN-SUFFIX,ocbc.com.sg
 DOMAIN,ocbc.com
 DOMAIN-SUFFIX,ocbc.com
 
-USER-AGENT,SG
+USER-AGENT,SG,新加坡节点
