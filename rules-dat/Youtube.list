@@ -46,5 +46,4 @@ DOMAIN-SUFFIX,youtubego.co.id
 
 DOMAIN-SUFFIX,yt.be
 
-USER-AGENT,YouTube*
-USER-AGENT,Youtube*
+USER-AGENT,YouTube
