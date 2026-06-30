@@ -108,8 +108,8 @@ https://kelee.one/Tool/Loon/Lsr/TikTok.lsr, policy=Tiktok, tag=Tiktok, enabled=t
 https://rule.kelee.one/Loon/YouTube.lsr, policy=YouTube, tag=YouTube, enabled=true
 https://rule.kelee.one/Loon/Netflix.lsr, policy=Netflix, tag=Netflix, enabled=true
 https://rule.kelee.one/Loon/Disney.lsr, policy=Disney, tag=Disney, enabled=true
-https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港, tag=hk, enabled=true
-https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/sg_all.list, policy=新加坡, tag=sg, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港, tag=HK, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/sg_all.list, policy=新加坡, tag=SG, enabled=true
 
 
 [Host]
