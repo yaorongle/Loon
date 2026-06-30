@@ -74,8 +74,6 @@ DOMAIN,mssdk.bytedance.com,DIRECT
 DOMAIN,polaris.zijieapi.com,DIRECT
 DOMAIN,ad.zijieapi.com,DIRECT
 DOMAIN,msmp.abchina.com.cn,DIRECT
-DOMAIN-SUFFIX,ocbc.com.sg,新加坡
-DOMAIN-SUFFIX,ocbc.com,新加坡
 DOMAIN-SUFFIX,ifastgb.com,美国
 
 
@@ -111,6 +109,7 @@ https://rule.kelee.one/Loon/YouTube.lsr, policy=YouTube, tag=YouTube, enabled=tr
 https://rule.kelee.one/Loon/Netflix.lsr, policy=Netflix, tag=Netflix, enabled=true
 https://rule.kelee.one/Loon/Disney.lsr, policy=Disney, tag=Disney, enabled=true
 https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/hk_all.list, policy=香港, tag=hk, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/sg_all.list, policy=新加坡, tag=sg, enabled=true
 
 
 [Host]
