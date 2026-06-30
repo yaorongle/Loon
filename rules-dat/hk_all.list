@@ -65,4 +65,4 @@ DOMAIN-SUFFIX,usmart.hk
 DOMAIN-SUFFIX,usmartglobal.com
 DOMAIN-SUFFIX,usmart66.com
 
-USER-AGENT,HK
+USER-AGENT,HK,香港节点
