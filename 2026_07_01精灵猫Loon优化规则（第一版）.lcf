@@ -122,6 +122,14 @@ https://raw.githubusercontent.com/yaorongle/Loon/main/rules-dat/sg_all.list, pol
 [Rewrite]
 
 [Script]
+# 脚本
+# Display commodity historical price
+# > JD - api.m.jd.com
+http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path=https://raw.githubusercontent.com/zwf234/rules/master/js/jd_price.js
+
+# Display Netflix ratings - ios.prod.ftl.netflix.com
+http-request ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
+http-response ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
 
 [Remote Script]
 [Plugin]
