@@ -28,8 +28,10 @@ DOMAIN-SUFFIX,octopus.com.hk
 DOMAIN-SUFFIX,octopuscards.com
 DOMAIN-SUFFIX,price.com.hk
 
-# Media
 
+# > myTV_SUPER
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 
