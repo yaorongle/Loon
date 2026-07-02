@@ -28,7 +28,7 @@ interface-mode = auto
 
 
 [Remote Proxy]
-N1 = http://XXXXXXXXXXXXXXXXXXXXXXX,udp=true,block-quic=true,fast-open=default,vmess-aead=default,skip-cert-verify=true,enabled=false,flexible-sni=true,parser-plugin=新版资源解析器插件
+N1 = http://XXXXXXXXXXXXXXXXXXXXXXX,udp=true,block-quic=true,fast-open=default,vmess-aead=default,skip-cert-verify=true,enabled=true,flexible-sni=true,parser-plugin=新版资源解析器插件
 
 
 N2 = https://XXXXXXXXXXXXXXXXXXXXXX,udp=true,block-quic=true,fast-open=default,vmess-aead=default,skip-cert-verify=true,enabled=true,flexible-sni=false,parser-plugin=新版资源解析器插件   (N2是Base64 订阅使用)
