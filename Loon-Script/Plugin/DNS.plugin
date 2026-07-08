@@ -529,7 +529,9 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 *.antbank.hk = server:210.5.56.145
 *.antbank.hk = server:210.5.56.146
 *.antbank.hk = server:https://1.1.1.1/dns-query
-
+*.elebank.com = server:202.67.240.222
+*.elebank.com = server:202.67.240.221
+*.elebank.com = server:https://1.1.1.1/dns-query
 
 # > 🇹🇼 TWN
 # 中华电信
