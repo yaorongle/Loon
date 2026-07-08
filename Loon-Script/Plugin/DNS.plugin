@@ -460,38 +460,38 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 # > 🇨🇳 CHN
 # CNNIC SDNS
 # 中国政府网
-# *.gov.cn = server:1.2.4.8
-# *.政务 = server:1.2.4.8
+*.gov.cn = server:1.2.4.8
+*.政务 = server:1.2.4.8
 
 # > 🇭🇰 HKG
 # PCCW Enterprises Limited
-# *.pccw.com = server:dns1.pccw.com
+*.pccw.com = server:dns1.pccw.com
 # 1O1O
-# *.1010.com.hk = server:dns1.pccw.com
+*.1010.com.hk = server:dns1.pccw.com
 # csl.
-# *.hkcsl.com = server:dns1.pccw.com
+*.hkcsl.com = server:dns1.pccw.com
 # The CLUB by HKT
-# *.theclub.com.hk = server:dns1.pccw.com
+*.theclub.com.hk = server:dns1.pccw.com
 # now.com
-# *.now.com = server:dns2.pccw.com
+*.now.com = server:dns2.pccw.com
 # Now E
-# *.nowe.com = server:dns2.pccw.com
+*.nowe.com = server:dns2.pccw.com
 # Now TV
-# *.now-tv.com = server:dns2.pccw.com
+*.now-tv.com = server:dns2.pccw.com
 # MOOV
-# *.moov.hk = server:dns3.pccw.com
+*.moov.hk = server:dns3.pccw.com
 # viu
-# *.viu.com = server:dns3.pccw.com
+*.viu.com = server:dns3.pccw.com
 # viu tv
-# *.viu.tv = server:dns3.pccw.com
+*.viu.tv = server:dns3.pccw.com
 # Hong Kong Cable Television Limited
-# *.hkcable.com.hk = server:dns1.hkcable.com.hk
+*.hkcable.com.hk = server:dns1.hkcable.com.hk
 # i-CABLE
-# *.i-cable.com = server:dns2.hkcable.com.hk
+*.i-cable.com = server:dns2.hkcable.com.hk
 # CABLE TV Service
-# *.cabletv.com.hk = server:dns2.hkcable.com.hk
+*.cabletv.com.hk = server:dns2.hkcable.com.hk
 # KDDI Hong Kong Limited
-# *.hk.kddi.com = server:apple.kdd.net.hk
+*.hk.kddi.com = server:apple.kdd.net.hk
 # —— 香港TVB/myTVsuper -— DNS —-
 *.tvb.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
 *.mytvsuper.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
