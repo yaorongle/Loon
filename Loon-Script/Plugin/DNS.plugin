@@ -550,3 +550,13 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 # > 🇺🇸 USA
 # Hurricane Electric
 *.he.net = server:https://ordns.he.net/dns-query
+
+# AI美国域名保留海外DNS
+*.anthropic.com = server:https://1.1.1.1/dns-query
+*.anthropic.com = server:https://8.8.8.8/dns-query
+*.claude.ai = server:https://1.1.1.1/dns-query
+*.claude.ai = server:https://8.8.8.8/dns-query
+*.claudeusercontent.com = server:https://1.1.1.1/dns-query
+*.claudeusercontent.com = server:https://8.8.8.8/dns-query
+*.openai.com = server:https://1.1.1.1/dns-query
+*.openai.com = server:https://8.8.8.8/dns-query
