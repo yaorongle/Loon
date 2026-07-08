@@ -493,12 +493,10 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 # KDDI Hong Kong Limited
 # *.hk.kddi.com = server:apple.kdd.net.hk
 # —— 香港TVB/myTVsuper -— DNS —-
-# *.tvb.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
-# *.mytvsuper.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
+*.tvb.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
+*.mytvsuper.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
 
-
-
-# *.hsbc.com.hk = server:202.67.240.222
+*.hsbc.com.hk = server:202.67.240.222
 
 # > 🇹🇼 TWN
 # 中华电信
