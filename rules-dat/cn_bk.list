@@ -23,3 +23,7 @@ DOMAIN-SUFFIX,spdb.com.cn
 # —— 其他金融支付 ——
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,cn.unionpay.com
+
+DOMAIN-SUFFIX,ccb-life.com,DIRECT
+DOMAIN-SUFFIX,ccbintl.com,DIRECT
+DOMAIN-SUFFIX,ccbfund.cn,DIRECT
