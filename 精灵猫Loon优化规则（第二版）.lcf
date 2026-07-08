@@ -185,7 +185,7 @@ https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Node_detection_tool.plugi
 https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/QuickSearch.plugin, enabled=true
 https://github.com/Moli-X/Resources/raw/main/Loon/Collection.plugin, enabled=true
 https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/General.plugin, tag=配置增强, enabled=true
-https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/DNS.plugin, tag=DNS映射, enabled=true
+https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/Loon-Script/Plugin/DNS.plugin, tag=DNS映射, enabled=true
 https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/BlockAdvertisers.plugin, enabled=true
 https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/HTTPDNS.Block.plugin, enabled=true
 [Mitm]
