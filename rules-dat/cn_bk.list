@@ -24,6 +24,6 @@ DOMAIN-SUFFIX,spdb.com.cn
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,cn.unionpay.com
 
-DOMAIN-SUFFIX,ccb-life.com,DIRECT
-DOMAIN-SUFFIX,ccbintl.com,DIRECT
-DOMAIN-SUFFIX,ccbfund.cn,DIRECT
+DOMAIN-SUFFIX,ccb-life.com
+DOMAIN-SUFFIX,ccbintl.com
+DOMAIN-SUFFIX,ccbfund.cn
