@@ -362,40 +362,6 @@ url.cn = server:https://doh.pub/dns-query
 # 百度短网址
 dwz.cn = server:180.76.76.76
 
-# > 360
-# refer: https://sdns.360.net/dnsPublic.html#course
-# 360安全中心
-*.360.cn = server:https://doh.360.cn/dns-query
-# 360安全卫士
-*.360safe.com = server:https://doh.360.cn/dns-query
-# 360快资讯
-*.360kuai.com = server:https://doh.360.cn/dns-query
-# 360搜索
-*.so.com = server:https://doh.360.cn/dns-query
-# 360网页快照服务
-*.360webcache.com = server:https://doh.360.cn/dns-query
-# 奇虎api
-*.qihuapi.com = server:https://doh.360.cn/dns-query
-# 360图床
-*.qhimg.com = server:https://doh.360.cn/dns-query
-*.qhimgs.com = server:https://doh.360.cn/dns-query
-*.qhimgs?.com = server:https://doh.360.cn/dns-query
-# 360
-*.qhmsg.com = server:https://doh.360.cn/dns-query
-# 奇虎静态资源
-*.qhres.com = server:https://doh.360.cn/dns-query
-*.qhres?.com = server:https://doh.360.cn/dns-query
-# 导航静态文件
-*.dhrest.com = server:https://doh.360.cn/dns-query
-# 360
-*.qhupdate.com = server:https://doh.360.cn/dns-query
-# 360安全云盘
-*.yunpan.cn = server:https://doh.360.cn/dns-query
-*.yunpan.com.cn = server:https://doh.360.cn/dns-query
-*.yunpan.com = server:https://doh.360.cn/dns-query
-# 360短网址
-urlqh.cn = server:https://doh.360.cn/dns-query
-
 # > Bytedance
 # refer: https://www.volcengine.com/docs/6758/179060
 # 艾特迷
@@ -531,8 +497,7 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 # *.mytvsuper.com = server:210.5.56.145,210.5.56.146, https://1.1.1.1/dns-query
 
 
-# —— 香港银行 - DNS —— HKNet（香港网络）
-# HSBC Hong Kong Limited
+
 # *.hsbc.com.hk = server:202.67.240.222
 
 # > 🇹🇼 TWN
