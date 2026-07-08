@@ -13,7 +13,11 @@ sni-sniffing = true
 real-ip = localhost,*.local,*.lan,*.home.arpa,router.asus.com,miwifi.com,tendawifi.com,tplogin.cn,*.apple.com,*.icloud.com,captive.apple.com,*.push.apple.com,*.mzstatic.com,*.cdn-apple.com,*.apple-dns.net,time.apple.com,time-ios.apple.com
 doh-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query
 ip-mode = prefer-v4
-skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local,e.crashlynatics.com
+# 银行域名全部直连，跳过代理
+skip-proxy = ccb.com,cib.com.cn,icbc.com.cn,cmbchina.com,citicbank.com,hxb.com.cn,pingan.com,cgbchina.com.cn,cmbc.com.cn,cscb.cn,bankcomm.com,boc.cn,gzcb.com.cn,jjccb.com,cebbank.com,ghbank.com.cn,95528.cn,spdb.com.cn
+
+# 其余流量走代理
+default-proxy = 国内分流
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32,::1/128,fe80::/10,fc00::/7,fd00::/8
 dns-server = system,223.5.5.5,119.29.29.29,223.6.6.6,180.184.1.1
 allow-wifi-access = true
