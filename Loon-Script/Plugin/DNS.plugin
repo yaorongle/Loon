@@ -526,6 +526,8 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 # *.cabletv.com.hk = server:dns2.hkcable.com.hk
 # KDDI Hong Kong Limited
 # *.hk.kddi.com = server:apple.kdd.net.hk
+# HSBC Hong Kong Limited
+# *.hsbc.com.hk = server:202.67.240.222,202.67.240.221
 
 # > 🇹🇼 TWN
 # 中华电信
