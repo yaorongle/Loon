@@ -497,8 +497,8 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 *.tvb.com = server:210.5.56.145
 *.tvb.com = server:210.5.56.146
 *.tvb.com = server:https://1.1.1.1/dns-query
-*.mytvsuper.com = server:210.5.56.145,
-*.mytvsuper.com = 210.5.56.146
+*.mytvsuper.com = server:210.5.56.145
+*.mytvsuper.com = server:210.5.56.146
 *.mytvsuper.com = https://1.1.1.1/dns-query
 
 *.hsbc.com.hk = server:202.67.240.222
