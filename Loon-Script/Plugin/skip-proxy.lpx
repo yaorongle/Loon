@@ -13,5 +13,4 @@ real-ip = easy-login.10099.com.cn,*-update.xoyocdn.com,id6.me,open.e.189.cn
 
 [Rule]
 DOMAIN,msmp.abchina.com.cn,REJECT
-DOMAIN,mbs.ccb.com,REJECT
-DOMAIN,mp2.ccb.com,REJECT
+DOMAIN,ccb.com,REJECT
