@@ -533,7 +533,7 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 
 # —— 香港银行 - DNS —— HKNet（香港网络）
 # HSBC Hong Kong Limited
-# *.hsbc.com.hk = server:202.67.240.222,202.67.240.221
+# *.hsbc.com.hk = server:202.67.240.222
 
 # > 🇹🇼 TWN
 # 中华电信
