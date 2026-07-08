@@ -498,6 +498,14 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 
 *.hsbc.com.hk = server:202.67.240.222
 *.hsbc.com.hk = server:202.67.240.221
+*.hangseng.com = server:202.67.240.222
+*.hangseng.com = server:202.67.240.221
+*.sc.com = server:202.67.240.222
+*.sc.com = server:202.67.240.221
+*.pingandb.com = server:202.67.240.222
+*.pingandb.com = server:202.67.240.221
+*.welab.bank = server:202.67.240.222
+*.welab.bank = server:202.67.240.221
 
 # > 🇹🇼 TWN
 # 中华电信
