@@ -5,7 +5,7 @@
 #!system_version = 
 #!loon_version = 3.5.0(975)
 #!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
-#!homepage = https://github.com/yaorongle/Loon-Script/blob/master/Plugin/skip-proxy.md
+#!homepage = https://raw.githubusercontent.com/yaorongle/Loon/refs/heads/main/Loon-Script/Plugin/skip-proxy.md
 
 [General]
 skip-proxy = www.baidu.com,yunbusiness.ccb.com,wxh.wo.cn,gate.lagou.com,www.abchina.com.cn,www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com,id6.me
