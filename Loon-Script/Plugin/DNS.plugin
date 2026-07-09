@@ -324,7 +324,7 @@ tb.cn = server:https://dns.alidns.com/dns-query
 *.smtcdns.com = server:https://doh.pub/dns-query
 *.smtcdns.net = server:https://doh.pub/dns-query
 # 腾讯短网址
-url.cn = server:https://doh.pub/dns-query
+*.url.cn = server:https://doh.pub/dns-query
 
 # > 百度
 # refer: https://dudns.baidu.com/support/localdns/Address/index.html
@@ -360,7 +360,7 @@ url.cn = server:https://doh.pub/dns-query
 *.bcehost.com = server:180.76.76.76
 *.bcehosts.com = server:180.76.76.76
 # 百度短网址
-dwz.cn = server:180.76.76.76
+*.dwz.cn = server:180.76.76.76
 
 # > Bytedance
 # refer: https://www.volcengine.com/docs/6758/179060
@@ -457,41 +457,60 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76
 # BiliBili upos视频服务器（腾讯云）
 upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 
-# > 🇨🇳 CHN
-# CNNIC SDNS
-# 中国政府网
-*.gov.cn = server:1.2.4.8
-*.政务 = server:1.2.4.8
+# —— 香港TV -— DNS —-
+*.now.com = server:203.80.96.10
+*.now.com = server:203.80.96.9
+*.now.com = server:https://1.1.1.1/dns‑query
+*.viu.com.hk = server:203.80.96.10
+*.viu.com.hk = server:203.80.96.9
+*.viu.com.hk = server:https://1.1.1.1/dns‑query
+*.viu.com = server:1.1.1.1
+*.viu.com = server:8.8.8.8
+*.viu.tv = server:1.1.1.1
+*.viu.tv = server:8.8.8.8
+*.nowe.com = server:1.1.1.1
+*.nowe.com = server:8.8.8.8
+*.moov.hk = server:203.80.96.10
+*.moov.hk = server:203.80.96.9
+*.moov.hk = server:https://1.1.1.1/dns‑query
+*.nowe.com = server:203.80.96.10
+*.nowe.com = server:https://1.1.1.1/dns‑query
+*.now‑tv.com = server:203.80.96.10
+*.now‑tv.com = server:https://1.1.1.1/dns‑query
 
-# > 🇭🇰 HKG
-# PCCW Enterprises Limited
-*.pccw.com = server:dns1.pccw.com
-# 1O1O
-*.1010.com.hk = server:dns1.pccw.com
-# csl.
-*.hkcsl.com = server:dns1.pccw.com
-# The CLUB by HKT
-*.theclub.com.hk = server:dns1.pccw.com
-# now.com
-*.now.com = server:dns2.pccw.com
-# Now E
-*.nowe.com = server:dns2.pccw.com
-# Now TV
-*.now-tv.com = server:dns2.pccw.com
-# MOOV
-*.moov.hk = server:dns3.pccw.com
-# viu
-*.viu.com = server:dns3.pccw.com
-# viu tv
-*.viu.tv = server:dns3.pccw.com
-# Hong Kong Cable Television Limited
-*.hkcable.com.hk = server:dns1.hkcable.com.hk
-# i-CABLE
-*.i-cable.com = server:dns2.hkcable.com.hk
-# CABLE TV Service
-*.cabletv.com.hk = server:dns2.hkcable.com.hk
-# KDDI Hong Kong Limited
-*.hk.kddi.com = server:apple.kdd.net.hk
+# —— 香港电信公司 -— DNS —-
+*.pccw.com = server:203.80.96.10
+*.pccw.com = server:203.80.96.9
+*.pccw.com = server:https://1.1.1.1/dns-query
+*.i-cable.com = server:61.10.0.130
+*.i-cable.com = server:61.10.1.130
+*.i-cable.com = server:https://1.1.1.1/dns-query
+*.cabletv.com.hk = server:61.10.0.130
+*.cabletv.com.hk = server:61.10.1.130
+*.cabletv.com.hk = server:https://1.1.1.1/dns-query
+*.hkcable.com.hk = server:61.10.0.130
+*.hkcable.com.hk = server:61.10.1.130
+*.hkcable.com.hk = server:https://1.1.1.1/dns-query
+*.1010.com.hk = server:203.80.96.10
+*.1010.com.hk = server:203.80.96.9
+*.1010.com.hk = server:https://1.1.1.1/dns-query
+*.theclub.com.hk = server:203.80.96.10
+*.theclub.com.hk = server:203.80.96.9
+*.theclub.com.hk = server:https://1.1.1.1/dns-query 
+*.clubsim.com.hk = server:210.87.250.154
+*.clubsim.com.hk = server:210.87.250.155 
+*.clubsim.com.hk = server:https://1.1.1.1/dns-query 
+*.hkcsl.com = server:210.87.250.154
+*.hkcsl.com = server:210.87.250.155 
+*.hkcsl.com = server:https://1.1.1.1/dns-query 
+*.hk.chinamobile.com = server:202.67.240.222
+*.hk.chinamobile.com = server:202.67.240.221
+*.hk.chinamobile.com = server:https://1.1.1.1/dns-query
+
+# —— 香港赛马会 -— DNS —-
+*.hkjc.com = server:202.67.240.222
+*.hkjc.com = server:202.67.240.221
+*.hkjc.com = server:https://1.1.1.1/dns-query
 
 # —— 香港TVB/myTVsuper -— DNS —-
 *.tvb.com = server:210.5.56.145
@@ -532,24 +551,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 *.elebank.com = server:202.67.240.222
 *.elebank.com = server:202.67.240.221
 *.elebank.com = server:https://1.1.1.1/dns-query
-
-# > 🇹🇼 TWN
-# 中华电信
-*.cht.com.tw = server:https://dns.hinet.net/dns-query
-# 中华电信HiNet
-*.hinet.net = server:https://dns.hinet.net/dns-query
-# 中华电信emome
-*.emome.net = server:https://dns.hinet.net/dns-query
-# So-net Entertainment Taiwan
-# so-net.net.tw = server:ns1.so-net.net.tw
-# so-net.tw = server:ns1.so-net.net.tw
-# Taiwan Network Information Center
-*.tw = server:https://dns.twnic.tw/dns-query
-*.taipei = server:https://dns.twnic.tw/dns-query
-
-# > 🇺🇸 USA
-# Hurricane Electric
-*.he.net = server:https://ordns.he.net/dns-query
 
 # AI美国域名保留海外DNS
 *.anthropic.com = server:https://1.1.1.1/dns-query
