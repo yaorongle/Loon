@@ -474,10 +474,10 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 *.gov.hk = server:203.80.96.9
 *.price.com.hk = server:202.67.240.222
 *.price.com.hk = server:202.67.240.221
-*.octopus.com.hk = server:202.67.240.222
-*.octopus.com.hk = server:202.67.240.221
-*.octopuscards.com = server:202.67.240.222
-*.octopuscards.com = server:202.67.240.221
+*.octopus.com.hk = server:203.80.96.10
+*.octopus.com.hk = server:203.80.96.9
+*.octopuscards.com = server:https://1.1.1.1/dns‑query
+*.octopuscards.com = server:https://8.8.8.8/dns‑query
 
 # —— 香港TV -— DNS —-
 *.now.com = server:203.80.96.10
