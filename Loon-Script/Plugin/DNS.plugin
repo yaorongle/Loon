@@ -478,6 +478,8 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 *.octopus.com.hk = server:https://1.1.1.1/dns‑query
 *.octopuscards.com = server:https://1.1.1.1/dns‑query
 *.octopuscards.com = server:https://8.8.8.8/dns‑query
+*.goofish.com = server:119.29.29.29
+*.goofish.com = server:https://dns.alidns.com/dns-query
 
 # —— 香港TV -— DNS —-
 *.now.com = server:203.80.96.10
