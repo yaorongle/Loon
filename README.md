@@ -18,3 +18,36 @@ VLESS(TCP+Vision+Reality)、Trojan、VMess(WS/HTTP+TLS)、SS/SSR、WireGuard、H
 
 绝对避开：XHTTP、HTTP/2、gRPC、QUIC、mKCP
 ---------------------------------------------------------------------------
+Loon目前支持如下协议
+
+Shadowsocks（含SS2022）
+      Shadowsocks+Simple obfs
+      Shadowsocks+ShadowTLS-v3
+ShadowsocksR
+      ShadowsocksR+ShadowTLS-v3
+VMess
+      VMess+TCP
+      VMess+TCP+TLS
+      VMess+WebSocket
+      VMess+WebSocket+TLS
+      VMess+HTTP
+      VMess+HTTP+TLS
+VLess
+      VLESS+TCP
+      VLESS+TCP+TLS
+      VLESS+WebSocket
+      VLESS+WebSocket+TLS
+      VLESS+HTTP
+      VLESS+HTTP+TLS
+      VLESS+VISION+REALITY
+Trojan
+      Trojan+TCP
+      Trojan+HTTP
+      Trojan+WebSocket
+Socks5
+HTTP
+HTTPS
+WireGuard
+Hysteria 2
+AnyTLS
+基于JavaScript的自定义协议
