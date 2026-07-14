@@ -546,34 +546,24 @@ upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
 
 # —— 香港银行 -— DNS —-
 *.hsbc.com.hk = server:202.67.240.222
-*.hsbc.com.hk = server:202.67.240.221
 *.hsbc.com.hk = server:https://1.1.1.1/dns-query
 *.hangseng.com = server:202.67.240.222
-*.hangseng.com = server:202.67.240.221
 *.hangseng.com = server:https://1.1.1.1/dns-query
 *.sc.com = server:202.67.240.222
-*.sc.com = server:202.67.240.221
 *.sc.com = server:https://1.1.1.1/dns-query
 *.cncbinternational.com = server:210.5.56.145
-*.cncbinternational.com = server:210.5.56.146
 *.cncbinternational.com = server:https://1.1.1.1/dns-query
 *.cmbwinglungbank.com = server:210.5.56.145
-*.cmbwinglungbank.com = server:210.5.56.146
 *.cmbwinglungbank.com = server:https://1.1.1.1/dns-query
 *.pingandb.com = server:202.67.240.222
-*.pingandb.com = server:202.67.240.221
 *.pingandb.com = server:https://1.1.1.1/dns-query
 *.welab.bank = server:202.67.240.222
-*.welab.bank = server:202.67.240.221
 *.welab.bank = server:https://1.1.1.1/dns-query
 *.fusionbank.com = server:202.67.240.222
-*.fusionbank.com = server:202.67.240.221
 *.fusionbank.com = server:https://1.1.1.1/dns-query
 *.antbank.hk = server:210.5.56.145
-*.antbank.hk = server:210.5.56.146
 *.antbank.hk = server:https://1.1.1.1/dns-query
 *.elebank.com = server:202.67.240.222
-*.elebank.com = server:202.67.240.221
 *.elebank.com = server:https://1.1.1.1/dns-query
 
 # AI美国域名保留海外DNS
