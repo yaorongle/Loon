@@ -1,8 +1,9 @@
 # Singapore Rules for Loon
 
-DOMAIN,ocbc.com.sg
-DOMAIN-SUFFIX,ocbc.com.sg
-DOMAIN,ocbc.com
-DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,ocbc.com,SG-Proxy
+DOMAIN-SUFFIX,ocbc.com.sg,SG-Proxy
+DOMAIN-SUFFIX,brilliantcollector.com,SG-Proxy
+DOMAIN-SUFFIX,uniqgift.com,SG-Proxy
+DOMAIN-SUFFIX,go-mpulse.net,SG-Proxy
 
 USER-AGENT,SG,新加坡节点
