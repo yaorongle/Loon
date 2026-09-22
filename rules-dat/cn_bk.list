@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,cn.unionpay.com
 DOMAIN-SUFFIX,ccb-life.com
 DOMAIN-SUFFIX,ccbintl.com
 DOMAIN-SUFFIX,ccbfund.cn
+
+# ***** ————加密货币———— *****
+DOMAIN-SUFFIX,binance.com
