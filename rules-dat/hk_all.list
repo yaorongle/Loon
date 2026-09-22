@@ -69,4 +69,7 @@ DOMAIN-SUFFIX,usmart.hk
 DOMAIN-SUFFIX,usmartglobal.com
 DOMAIN-SUFFIX,usmart66.com
 
+# ***** ————加密货币———— *****
+DOMAIN-SUFFIX,binance.com
+
 USER-AGENT,HK,香港节点
